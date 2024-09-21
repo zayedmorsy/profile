@@ -1,52 +1,48 @@
-# زياد محمد محمود أحمد
+# Ziad Mohamed Mahmoud Ahmed
 
-## معلومات الاتصال
+## Contact Information
 
-* البريد الإلكتروني: ziad2002.com@gmail.com
-* الهاتف: +201092095597
-* LinkedIn: linkedin.com/in/ziad-mohamed-53a34a264
+* Email: ziad2002.com@gmail.com
+* Phone: +201092095597
+* Location: Al Salam City
+* LinkedIn: [linkedin.com/in/ziad-mohamed-53a34a264](https://linkedin.com/in/ziad-mohamed-53a34a264)
 
-## الهدف الوظيفي
+## Objective
 
-مهندس اتصالات وإلكترونيات متحمس، يمتلك أساسًا قويًا في مبادئ الاتصالات وتصميم الدوائر وتطبيقات الإلكترونيات. أتطلع إلى الاستفادة من مهاراتي التقنية وقدراتي على حل المشكلات للمساهمة في بيئة هندسية سريعة النمو.
+Highly motivated Communications and Electronics Engineer with a strong foundation in communication principles, circuit design, and electronics applications. Eager to leverage technical skills and problem-solving abilities to contribute to a fast-paced engineering environment.
 
-## الخبرة المهنية
+## Professional Experience
 
-* **مطور الواجهة الأمامية**: abwabksa.com (2023 - حتى الآن)
-* **مطور الواجهة الأمامية**: mostaql.com (نوفمبر 2020 - حتى الآن)
-* **مطور ويب**: khamsat, mostaql, and fiverr
+* Frontend Web Developer | abwabksa.com | 2023 - present
+* Frontend Web Developer | mostaql.com | November 2020 - present
+* Web Developer | Freelance on khamsat, mostaql, and fiverr
 
-## التعليم
+## Education
 
-* **بكالوريوس هندسة الاتصالات والإلكترونيات**: الأكاديمية المصرية للهندسة والتكنولوجيا المتقدمة التابعة لوزارة الإنتاج الحربي (EAEAT) (2020 - 2025)، القاهرة، مصر. المعدل التراكمي: 2.8
+* Bachelor's in Communications and Electronics Engineering | The Egyptian Academy for Engineering and Advanced Technology affiliated to the Ministry of Military Production (EAEAT) | 2020 - 2025 | Cairo, Egypt | GPA: 2.8
 
-## المهارات
+## Training
 
-* **حل المشكلات**
-* **مهارات التحليل واتخاذ القرار**
-* **القدرة على العمل بمبادرة ذاتية أو كجزء من فريق**
-* **CCNA**
-* **الطاقة الشمسية**
-* **C#**
-* **HTML**
-* **CSS**
-* **Python**
+* Introduction to Artificial Intelligence and Applications Training | Zewail City of Science and Technology | August 2023 - October 2023
+* Internship | Benha electronics company | July 2022
+    * Skills gained: CCNA, Solar energy, C#
 
-## اللغات
+## Courses
 
-* **العربية**
-* **الإنجليزية**
+* CCNA | From YouTube | January 2024 - May 2024
+* Ethical Hacking | From MaharaTech | March 2024 - May 2024
+* Introduction to Network Security | From MaharaTech | March 2024 - April 2024
+* HTML and CSS | From FWD | February 2022 - May 2022
+* Computer Network Fundamentals | From maharatech | January 2022 - February 2022
+* Python Programming | From YouTube | January 2021 - March 2021
 
-## الدورات التدريبية
+## Languages
 
-* **CCNA**: من YouTube (يناير 2024 - مايو 2024)
-* **القرصنة الأخلاقية**: من MaharaTech (مارس 2024 - مايو 2024)
-* **مقدمة في أمن الشبكات**: من MaharaTech (مارس 2024 - أبريل 2024)
-* **HTML and CSS**: من FWD (فبراير 2022 - مايو 2022)
-* **أساسيات شبكات الحاسوب**: من maharatech (يناير 2022 - فبراير 2022)
-* **برمجة Python**: من youtube (يناير 2021 - مارس 2021)
+* Arabic
+* English
 
-## التدريب
+## Skills
 
-* **مقدمة في الذكاء الاصطناعي وتطبيقاته**: في مدينة زويل للعلوم والتكنولوجيا (أغسطس 2023 - أكتوبر 2023)
-* **شركة بنها للإلكترونيات - تدريب عملي** (يوليو 2022)
+* Problem-Solving
+* Analysis and Decision-Making skills
+* Able to work on own initiative or as part of a team
