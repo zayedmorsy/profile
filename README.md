@@ -9,7 +9,18 @@
 
 ## Objective
 
-Highly motivated Communications and Electronics Engineer with a strong foundation in communication principles, circuit design, and electronics applications. Eager to leverage technical skills and problem-solving abilities to contribute to a fast-paced engineering environment.
+About Me
+
+An enthusiastic web developer who thrives on bringing designs to life through interactive and functional websites. Over the past 4 years, I've gained extensive experience developing a variety of projects, from e-commerce stores to personal blogs.
+
+
+I believe that:
+
+* Every website is an opportunity to create a unique user experience.
+* Collaboration is key to success in any development project.
+* Continuous learning is essential for growth in this dynamic field.
+
+Get in touch to discuss your next project!
 
 ## Professional Experience
 
