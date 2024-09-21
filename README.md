@@ -5,7 +5,7 @@
 * Email: ziad2002.com@gmail.com
 * Phone: +201092095597
 * Location: Al Salam City
-* LinkedIn: [www.linkedin.com/in/zayed-morsy)
+* LinkedIn: [www.linkedin.com/in/zayed-morsy]
 
 ## Objective
 
